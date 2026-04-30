@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /Users/ravisingh/.claude/plugins/marketplaces/ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max/scripts/search.py \"RV park campground outdoor hospitality marketing landing trustworthy nature\" --design-system -p \"RV Park Demo\" -f markdown)"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cedar Ridge RV Park & Campground",
+  "short_name": "Cedar Ridge",
+  "description": "Riverside RV camping in the Blue Ridge Mountains, 15 minutes from downtown Asheville.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#2D5A3D",
+  "icons": []
+}
